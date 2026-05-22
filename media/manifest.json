@@ -1,6 +1,66 @@
 {
   "generated": [
     {
+      "source": "assets/images/djs/ales_g/dj-ales-g-fondo.jpeg",
+      "preferredOutput": "media/djs/ales_g/ales_g_avatar.jpg",
+      "preferredPublicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/ales_g/ales_g_avatar.jpg",
+      "variants": [
+        {
+          "format": "jpg",
+          "output": "media/djs/ales_g/ales_g_avatar.jpg",
+          "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/ales_g/ales_g_avatar.jpg",
+          "outputSizeBytes": 37516,
+          "quality": 88
+        },
+        {
+          "format": "webp",
+          "output": "media/djs/ales_g/ales_g_avatar.webp",
+          "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/ales_g/ales_g_avatar.webp",
+          "outputSizeBytes": 16940,
+          "quality": 80
+        }
+      ],
+      "sourceSizeBytes": 38330,
+      "sourceDimensions": {
+        "width": 1080,
+        "height": 720
+      },
+      "outputDimensions": {
+        "width": 640,
+        "height": 427
+      }
+    },
+    {
+      "source": "assets/images/djs/ales_g/dj-ales-g-fondo.jpeg",
+      "preferredOutput": "media/djs/ales_g/ales_g_cover.jpg",
+      "preferredPublicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/ales_g/ales_g_cover.jpg",
+      "variants": [
+        {
+          "format": "jpg",
+          "output": "media/djs/ales_g/ales_g_cover.jpg",
+          "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/ales_g/ales_g_cover.jpg",
+          "outputSizeBytes": 47843,
+          "quality": 86
+        },
+        {
+          "format": "webp",
+          "output": "media/djs/ales_g/ales_g_cover.webp",
+          "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/ales_g/ales_g_cover.webp",
+          "outputSizeBytes": 30200,
+          "quality": 78
+        }
+      ],
+      "sourceSizeBytes": 38330,
+      "sourceDimensions": {
+        "width": 1080,
+        "height": 720
+      },
+      "outputDimensions": {
+        "width": 1080,
+        "height": 720
+      }
+    },
+    {
       "source": "tool/source_media/djs/descu/descu_avatar.jpeg",
       "preferredOutput": "media/djs/descu/descu_avatar.jpg",
       "preferredPublicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/descu/descu_avatar.jpg",
@@ -58,6 +118,426 @@
       "outputDimensions": {
         "width": 1600,
         "height": 906
+      }
+    },
+    {
+      "source": "assets/images/djs/gomi/gomi_fondo.jpg",
+      "preferredOutput": "media/djs/gomi/gomi_avatar.jpg",
+      "preferredPublicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/gomi/gomi_avatar.jpg",
+      "variants": [
+        {
+          "format": "jpg",
+          "output": "media/djs/gomi/gomi_avatar.jpg",
+          "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/gomi/gomi_avatar.jpg",
+          "outputSizeBytes": 57542,
+          "quality": 88
+        },
+        {
+          "format": "webp",
+          "output": "media/djs/gomi/gomi_avatar.webp",
+          "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/gomi/gomi_avatar.webp",
+          "outputSizeBytes": 27134,
+          "quality": 80
+        }
+      ],
+      "sourceSizeBytes": 143954,
+      "sourceDimensions": {
+        "width": 1024,
+        "height": 1365
+      },
+      "outputDimensions": {
+        "width": 480,
+        "height": 640
+      }
+    },
+    {
+      "source": "assets/images/djs/gomi/gomi_fondo.jpg",
+      "preferredOutput": "media/djs/gomi/gomi_cover.jpg",
+      "preferredPublicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/gomi/gomi_cover.jpg",
+      "variants": [
+        {
+          "format": "jpg",
+          "output": "media/djs/gomi/gomi_cover.jpg",
+          "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/gomi/gomi_cover.jpg",
+          "outputSizeBytes": 148454,
+          "quality": 86
+        },
+        {
+          "format": "webp",
+          "output": "media/djs/gomi/gomi_cover.webp",
+          "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/gomi/gomi_cover.webp",
+          "outputSizeBytes": 59710,
+          "quality": 78
+        }
+      ],
+      "sourceSizeBytes": 143954,
+      "sourceDimensions": {
+        "width": 1024,
+        "height": 1365
+      },
+      "outputDimensions": {
+        "width": 1024,
+        "height": 1365
+      }
+    },
+    {
+      "source": "assets/images/djs/mari_barrocal/mari_barrocal_fondo.jpg",
+      "preferredOutput": "media/djs/mari_barrocal/mari_barrocal_avatar.jpg",
+      "preferredPublicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/mari_barrocal/mari_barrocal_avatar.jpg",
+      "variants": [
+        {
+          "format": "jpg",
+          "output": "media/djs/mari_barrocal/mari_barrocal_avatar.jpg",
+          "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/mari_barrocal/mari_barrocal_avatar.jpg",
+          "outputSizeBytes": 32210,
+          "quality": 88
+        },
+        {
+          "format": "webp",
+          "output": "media/djs/mari_barrocal/mari_barrocal_avatar.webp",
+          "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/mari_barrocal/mari_barrocal_avatar.webp",
+          "outputSizeBytes": 10796,
+          "quality": 80
+        }
+      ],
+      "sourceSizeBytes": 34640,
+      "sourceDimensions": {
+        "width": 672,
+        "height": 960
+      },
+      "outputDimensions": {
+        "width": 448,
+        "height": 640
+      }
+    },
+    {
+      "source": "assets/images/djs/mari_barrocal/mari_barrocal_fondo.jpg",
+      "preferredOutput": "media/djs/mari_barrocal/mari_barrocal_cover.jpg",
+      "preferredPublicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/mari_barrocal/mari_barrocal_cover.jpg",
+      "variants": [
+        {
+          "format": "jpg",
+          "output": "media/djs/mari_barrocal/mari_barrocal_cover.jpg",
+          "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/mari_barrocal/mari_barrocal_cover.jpg",
+          "outputSizeBytes": 38524,
+          "quality": 86
+        },
+        {
+          "format": "webp",
+          "output": "media/djs/mari_barrocal/mari_barrocal_cover.webp",
+          "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/mari_barrocal/mari_barrocal_cover.webp",
+          "outputSizeBytes": 17742,
+          "quality": 78
+        }
+      ],
+      "sourceSizeBytes": 34640,
+      "sourceDimensions": {
+        "width": 672,
+        "height": 960
+      },
+      "outputDimensions": {
+        "width": 672,
+        "height": 960
+      }
+    },
+    {
+      "source": "assets/images/djs/mikel gh y gratzz/mikel_gh_gartzz_avatar_profile.jpg",
+      "preferredOutput": "media/djs/mikel_gh_gartzz/mikel_gh_gartzz_avatar.jpg",
+      "preferredPublicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/mikel_gh_gartzz/mikel_gh_gartzz_avatar.jpg",
+      "variants": [
+        {
+          "format": "jpg",
+          "output": "media/djs/mikel_gh_gartzz/mikel_gh_gartzz_avatar.jpg",
+          "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/mikel_gh_gartzz/mikel_gh_gartzz_avatar.jpg",
+          "outputSizeBytes": 75425,
+          "quality": 88
+        },
+        {
+          "format": "webp",
+          "output": "media/djs/mikel_gh_gartzz/mikel_gh_gartzz_avatar.webp",
+          "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/mikel_gh_gartzz/mikel_gh_gartzz_avatar.webp",
+          "outputSizeBytes": 33634,
+          "quality": 80
+        }
+      ],
+      "sourceSizeBytes": 154655,
+      "sourceDimensions": {
+        "width": 900,
+        "height": 900
+      },
+      "outputDimensions": {
+        "width": 640,
+        "height": 640
+      }
+    },
+    {
+      "source": "assets/images/djs/mikel gh y gratzz/mikel_gh_gartzz_cover_profile.jpg",
+      "preferredOutput": "media/djs/mikel_gh_gartzz/mikel_gh_gartzz_cover.jpg",
+      "preferredPublicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/mikel_gh_gartzz/mikel_gh_gartzz_cover.jpg",
+      "variants": [
+        {
+          "format": "jpg",
+          "output": "media/djs/mikel_gh_gartzz/mikel_gh_gartzz_cover.jpg",
+          "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/mikel_gh_gartzz/mikel_gh_gartzz_cover.jpg",
+          "outputSizeBytes": 144438,
+          "quality": 86
+        },
+        {
+          "format": "webp",
+          "output": "media/djs/mikel_gh_gartzz/mikel_gh_gartzz_cover.webp",
+          "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/mikel_gh_gartzz/mikel_gh_gartzz_cover.webp",
+          "outputSizeBytes": 79302,
+          "quality": 78
+        }
+      ],
+      "sourceSizeBytes": 175142,
+      "sourceDimensions": {
+        "width": 1080,
+        "height": 620
+      },
+      "outputDimensions": {
+        "width": 1080,
+        "height": 620
+      }
+    },
+    {
+      "source": "assets/images/djs/Kris Alava/kris_alava_avatar_profile.jpg",
+      "preferredOutput": "media/djs/kris_alava/kris_alava_avatar.jpg",
+      "preferredPublicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/kris_alava/kris_alava_avatar.jpg",
+      "variants": [
+        {
+          "format": "jpg",
+          "output": "media/djs/kris_alava/kris_alava_avatar.jpg",
+          "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/kris_alava/kris_alava_avatar.jpg",
+          "outputSizeBytes": 68109,
+          "quality": 88
+        },
+        {
+          "format": "webp",
+          "output": "media/djs/kris_alava/kris_alava_avatar.webp",
+          "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/kris_alava/kris_alava_avatar.webp",
+          "outputSizeBytes": 30630,
+          "quality": 80
+        }
+      ],
+      "sourceSizeBytes": 114904,
+      "sourceDimensions": {
+        "width": 780,
+        "height": 780
+      },
+      "outputDimensions": {
+        "width": 640,
+        "height": 640
+      }
+    },
+    {
+      "source": "assets/images/djs/Kris Alava/kris_alava_cover_profile.jpg",
+      "preferredOutput": "media/djs/kris_alava/kris_alava_cover.jpg",
+      "preferredPublicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/kris_alava/kris_alava_cover.jpg",
+      "variants": [
+        {
+          "format": "jpg",
+          "output": "media/djs/kris_alava/kris_alava_cover.jpg",
+          "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/kris_alava/kris_alava_cover.jpg",
+          "outputSizeBytes": 61026,
+          "quality": 86
+        },
+        {
+          "format": "webp",
+          "output": "media/djs/kris_alava/kris_alava_cover.webp",
+          "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/kris_alava/kris_alava_cover.webp",
+          "outputSizeBytes": 19048,
+          "quality": 78
+        }
+      ],
+      "sourceSizeBytes": 75041,
+      "sourceDimensions": {
+        "width": 1170,
+        "height": 700
+      },
+      "outputDimensions": {
+        "width": 1170,
+        "height": 700
+      }
+    },
+    {
+      "source": "assets/images/djs/imanol/imanol_avatar.jpg",
+      "preferredOutput": "media/djs/imanol/imanol_avatar.jpg",
+      "preferredPublicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/imanol/imanol_avatar.jpg",
+      "variants": [
+        {
+          "format": "jpg",
+          "output": "media/djs/imanol/imanol_avatar.jpg",
+          "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/imanol/imanol_avatar.jpg",
+          "outputSizeBytes": 45603,
+          "quality": 88
+        },
+        {
+          "format": "webp",
+          "output": "media/djs/imanol/imanol_avatar.webp",
+          "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/imanol/imanol_avatar.webp",
+          "outputSizeBytes": 19420,
+          "quality": 80
+        }
+      ],
+      "sourceSizeBytes": 56851,
+      "sourceDimensions": {
+        "width": 720,
+        "height": 960
+      },
+      "outputDimensions": {
+        "width": 480,
+        "height": 640
+      }
+    },
+    {
+      "source": "assets/images/djs/imanol/imanol_avatar.jpg",
+      "preferredOutput": "media/djs/imanol/imanol_cover.jpg",
+      "preferredPublicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/imanol/imanol_cover.jpg",
+      "variants": [
+        {
+          "format": "jpg",
+          "output": "media/djs/imanol/imanol_cover.jpg",
+          "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/imanol/imanol_cover.jpg",
+          "outputSizeBytes": 63174,
+          "quality": 86
+        },
+        {
+          "format": "webp",
+          "output": "media/djs/imanol/imanol_cover.webp",
+          "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/imanol/imanol_cover.webp",
+          "outputSizeBytes": 32128,
+          "quality": 78
+        }
+      ],
+      "sourceSizeBytes": 56851,
+      "sourceDimensions": {
+        "width": 720,
+        "height": 960
+      },
+      "outputDimensions": {
+        "width": 720,
+        "height": 960
+      }
+    },
+    {
+      "source": "assets/images/djs/tabi/tabi_avatar_profile.jpg",
+      "preferredOutput": "media/djs/tabi/tabi_avatar.jpg",
+      "preferredPublicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/tabi/tabi_avatar.jpg",
+      "variants": [
+        {
+          "format": "jpg",
+          "output": "media/djs/tabi/tabi_avatar.jpg",
+          "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/tabi/tabi_avatar.jpg",
+          "outputSizeBytes": 43386,
+          "quality": 88
+        },
+        {
+          "format": "webp",
+          "output": "media/djs/tabi/tabi_avatar.webp",
+          "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/tabi/tabi_avatar.webp",
+          "outputSizeBytes": 15076,
+          "quality": 80
+        }
+      ],
+      "sourceSizeBytes": 63581,
+      "sourceDimensions": {
+        "width": 720,
+        "height": 720
+      },
+      "outputDimensions": {
+        "width": 640,
+        "height": 640
+      }
+    },
+    {
+      "source": "assets/images/djs/tabi/tabi_cover_profile.jpg",
+      "preferredOutput": "media/djs/tabi/tabi_cover.jpg",
+      "preferredPublicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/tabi/tabi_cover.jpg",
+      "variants": [
+        {
+          "format": "jpg",
+          "output": "media/djs/tabi/tabi_cover.jpg",
+          "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/tabi/tabi_cover.jpg",
+          "outputSizeBytes": 44844,
+          "quality": 86
+        },
+        {
+          "format": "webp",
+          "output": "media/djs/tabi/tabi_cover.webp",
+          "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/tabi/tabi_cover.webp",
+          "outputSizeBytes": 26754,
+          "quality": 78
+        }
+      ],
+      "sourceSizeBytes": 61639,
+      "sourceDimensions": {
+        "width": 1126,
+        "height": 700
+      },
+      "outputDimensions": {
+        "width": 1126,
+        "height": 700
+      }
+    },
+    {
+      "source": "assets/images/djs/blaster/blaster_dj_avatar.jpg",
+      "preferredOutput": "media/djs/blaster/blaster_avatar.jpg",
+      "preferredPublicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/blaster/blaster_avatar.jpg",
+      "variants": [
+        {
+          "format": "jpg",
+          "output": "media/djs/blaster/blaster_avatar.jpg",
+          "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/blaster/blaster_avatar.jpg",
+          "outputSizeBytes": 4916,
+          "quality": 88
+        },
+        {
+          "format": "webp",
+          "output": "media/djs/blaster/blaster_avatar.webp",
+          "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/blaster/blaster_avatar.webp",
+          "outputSizeBytes": 2938,
+          "quality": 80
+        }
+      ],
+      "sourceSizeBytes": 4593,
+      "sourceDimensions": {
+        "width": 150,
+        "height": 150
+      },
+      "outputDimensions": {
+        "width": 150,
+        "height": 150
+      }
+    },
+    {
+      "source": "assets/images/djs/blaster/blaster_dj_fondo.jpg",
+      "preferredOutput": "media/djs/blaster/blaster_cover.jpg",
+      "preferredPublicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/blaster/blaster_cover.jpg",
+      "variants": [
+        {
+          "format": "jpg",
+          "output": "media/djs/blaster/blaster_cover.jpg",
+          "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/blaster/blaster_cover.jpg",
+          "outputSizeBytes": 153899,
+          "quality": 86
+        },
+        {
+          "format": "webp",
+          "output": "media/djs/blaster/blaster_cover.webp",
+          "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/blaster/blaster_cover.webp",
+          "outputSizeBytes": 67920,
+          "quality": 78
+        }
+      ],
+      "sourceSizeBytes": 166621,
+      "sourceDimensions": {
+        "width": 1280,
+        "height": 1280
+      },
+      "outputDimensions": {
+        "width": 1280,
+        "height": 1280
       }
     },
     {
