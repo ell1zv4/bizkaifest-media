@@ -2,10 +2,25 @@
   "generated": [
     {
       "source": "tool/source_media/djs/descu/descu_avatar.jpeg",
-      "output": "media/djs/descu/descu_avatar.webp",
-      "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/descu/descu_avatar.webp",
+      "preferredOutput": "media/djs/descu/descu_avatar.jpg",
+      "preferredPublicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/descu/descu_avatar.jpg",
+      "variants": [
+        {
+          "format": "jpg",
+          "output": "media/djs/descu/descu_avatar.jpg",
+          "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/descu/descu_avatar.jpg",
+          "outputSizeBytes": 55544,
+          "quality": 88
+        },
+        {
+          "format": "webp",
+          "output": "media/djs/descu/descu_avatar.webp",
+          "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/descu/descu_avatar.webp",
+          "outputSizeBytes": 27380,
+          "quality": 80
+        }
+      ],
       "sourceSizeBytes": 1760434,
-      "outputSizeBytes": 27380,
       "sourceDimensions": {
         "width": 2316,
         "height": 3088
@@ -13,15 +28,29 @@
       "outputDimensions": {
         "width": 480,
         "height": 640
-      },
-      "quality": 80
+      }
     },
     {
       "source": "tool/source_media/djs/descu/descu_fondo.png",
-      "output": "media/djs/descu/descu_cover.webp",
-      "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/descu/descu_cover.webp",
+      "preferredOutput": "media/djs/descu/descu_cover.jpg",
+      "preferredPublicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/descu/descu_cover.jpg",
+      "variants": [
+        {
+          "format": "jpg",
+          "output": "media/djs/descu/descu_cover.jpg",
+          "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/descu/descu_cover.jpg",
+          "outputSizeBytes": 69315,
+          "quality": 86
+        },
+        {
+          "format": "webp",
+          "output": "media/djs/descu/descu_cover.webp",
+          "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/descu/descu_cover.webp",
+          "outputSizeBytes": 25474,
+          "quality": 78
+        }
+      ],
       "sourceSizeBytes": 4963452,
-      "outputSizeBytes": 25474,
       "sourceDimensions": {
         "width": 3392,
         "height": 1920
@@ -29,15 +58,29 @@
       "outputDimensions": {
         "width": 1600,
         "height": 906
-      },
-      "quality": 78
+      }
     },
     {
       "source": "tool/source_media/djs/blessive/blessive_avatar.JPG",
-      "output": "media/djs/blessive/blessive_avatar.webp",
-      "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/blessive/blessive_avatar.webp",
+      "preferredOutput": "media/djs/blessive/blessive_avatar.jpg",
+      "preferredPublicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/blessive/blessive_avatar.jpg",
+      "variants": [
+        {
+          "format": "jpg",
+          "output": "media/djs/blessive/blessive_avatar.jpg",
+          "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/blessive/blessive_avatar.jpg",
+          "outputSizeBytes": 52414,
+          "quality": 88
+        },
+        {
+          "format": "webp",
+          "output": "media/djs/blessive/blessive_avatar.webp",
+          "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/blessive/blessive_avatar.webp",
+          "outputSizeBytes": 27678,
+          "quality": 80
+        }
+      ],
       "sourceSizeBytes": 10348711,
-      "outputSizeBytes": 27678,
       "sourceDimensions": {
         "width": 4672,
         "height": 7008
@@ -45,15 +88,29 @@
       "outputDimensions": {
         "width": 427,
         "height": 640
-      },
-      "quality": 80
+      }
     },
     {
       "source": "tool/source_media/djs/blessive/blessive_background.jpg",
-      "output": "media/djs/blessive/blessive_cover.webp",
-      "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/blessive/blessive_cover.webp",
+      "preferredOutput": "media/djs/blessive/blessive_cover.jpg",
+      "preferredPublicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/blessive/blessive_cover.jpg",
+      "variants": [
+        {
+          "format": "jpg",
+          "output": "media/djs/blessive/blessive_cover.jpg",
+          "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/blessive/blessive_cover.jpg",
+          "outputSizeBytes": 377605,
+          "quality": 86
+        },
+        {
+          "format": "webp",
+          "output": "media/djs/blessive/blessive_cover.webp",
+          "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/blessive/blessive_cover.webp",
+          "outputSizeBytes": 180954,
+          "quality": 78
+        }
+      ],
       "sourceSizeBytes": 2535697,
-      "outputSizeBytes": 180954,
       "sourceDimensions": {
         "width": 4032,
         "height": 3024
@@ -61,8 +118,7 @@
       "outputDimensions": {
         "width": 1600,
         "height": 1200
-      },
-      "quality": 78
+      }
     }
   ]
 }
