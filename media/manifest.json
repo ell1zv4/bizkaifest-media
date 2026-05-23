@@ -9,14 +9,14 @@
           "format": "jpg",
           "output": "media/djs/ales_g/ales_g_avatar.jpg",
           "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/ales_g/ales_g_avatar.jpg",
-          "outputSizeBytes": 37516,
+          "outputSizeBytes": 48367,
           "quality": 88
         },
         {
           "format": "webp",
           "output": "media/djs/ales_g/ales_g_avatar.webp",
           "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/ales_g/ales_g_avatar.webp",
-          "outputSizeBytes": 16940,
+          "outputSizeBytes": 20828,
           "quality": 80
         }
       ],
@@ -27,7 +27,7 @@
       },
       "outputDimensions": {
         "width": 640,
-        "height": 427
+        "height": 640
       }
     },
     {
@@ -39,14 +39,14 @@
           "format": "jpg",
           "output": "media/djs/ales_g/ales_g_cover.jpg",
           "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/ales_g/ales_g_cover.jpg",
-          "outputSizeBytes": 47843,
+          "outputSizeBytes": 102266,
           "quality": 86
         },
         {
           "format": "webp",
           "output": "media/djs/ales_g/ales_g_cover.webp",
           "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/ales_g/ales_g_cover.webp",
-          "outputSizeBytes": 30200,
+          "outputSizeBytes": 35804,
           "quality": 78
         }
       ],
@@ -56,8 +56,8 @@
         "height": 720
       },
       "outputDimensions": {
-        "width": 1080,
-        "height": 720
+        "width": 1600,
+        "height": 900
       }
     },
     {
@@ -129,14 +129,14 @@
           "format": "jpg",
           "output": "media/djs/gomi/gomi_avatar.jpg",
           "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/gomi/gomi_avatar.jpg",
-          "outputSizeBytes": 57542,
+          "outputSizeBytes": 68207,
           "quality": 88
         },
         {
           "format": "webp",
           "output": "media/djs/gomi/gomi_avatar.webp",
           "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/gomi/gomi_avatar.webp",
-          "outputSizeBytes": 27134,
+          "outputSizeBytes": 30602,
           "quality": 80
         }
       ],
@@ -146,7 +146,7 @@
         "height": 1365
       },
       "outputDimensions": {
-        "width": 480,
+        "width": 640,
         "height": 640
       }
     },
@@ -159,14 +159,14 @@
           "format": "jpg",
           "output": "media/djs/gomi/gomi_cover.jpg",
           "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/gomi/gomi_cover.jpg",
-          "outputSizeBytes": 148454,
+          "outputSizeBytes": 132917,
           "quality": 86
         },
         {
           "format": "webp",
           "output": "media/djs/gomi/gomi_cover.webp",
           "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/gomi/gomi_cover.webp",
-          "outputSizeBytes": 59710,
+          "outputSizeBytes": 45892,
           "quality": 78
         }
       ],
@@ -176,8 +176,8 @@
         "height": 1365
       },
       "outputDimensions": {
-        "width": 1024,
-        "height": 1365
+        "width": 1600,
+        "height": 900
       }
     },
     {
@@ -189,14 +189,14 @@
           "format": "jpg",
           "output": "media/djs/mari_barrocal/mari_barrocal_avatar.jpg",
           "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/mari_barrocal/mari_barrocal_avatar.jpg",
-          "outputSizeBytes": 32210,
+          "outputSizeBytes": 43242,
           "quality": 88
         },
         {
           "format": "webp",
           "output": "media/djs/mari_barrocal/mari_barrocal_avatar.webp",
           "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/mari_barrocal/mari_barrocal_avatar.webp",
-          "outputSizeBytes": 10796,
+          "outputSizeBytes": 13976,
           "quality": 80
         }
       ],
@@ -206,7 +206,7 @@
         "height": 960
       },
       "outputDimensions": {
-        "width": 448,
+        "width": 640,
         "height": 640
       }
     },
@@ -219,14 +219,14 @@
           "format": "jpg",
           "output": "media/djs/mari_barrocal/mari_barrocal_cover.jpg",
           "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/mari_barrocal/mari_barrocal_cover.jpg",
-          "outputSizeBytes": 38524,
+          "outputSizeBytes": 90694,
           "quality": 86
         },
         {
           "format": "webp",
           "output": "media/djs/mari_barrocal/mari_barrocal_cover.webp",
           "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/mari_barrocal/mari_barrocal_cover.webp",
-          "outputSizeBytes": 17742,
+          "outputSizeBytes": 27950,
           "quality": 78
         }
       ],
@@ -236,8 +236,8 @@
         "height": 960
       },
       "outputDimensions": {
-        "width": 672,
-        "height": 960
+        "width": 1600,
+        "height": 900
       }
     },
     {
@@ -369,14 +369,14 @@
           "format": "jpg",
           "output": "media/djs/imanol/imanol_avatar.jpg",
           "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/imanol/imanol_avatar.jpg",
-          "outputSizeBytes": 45603,
+          "outputSizeBytes": 58894,
           "quality": 88
         },
         {
           "format": "webp",
           "output": "media/djs/imanol/imanol_avatar.webp",
           "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/imanol/imanol_avatar.webp",
-          "outputSizeBytes": 19420,
+          "outputSizeBytes": 24396,
           "quality": 80
         }
       ],
@@ -386,7 +386,7 @@
         "height": 960
       },
       "outputDimensions": {
-        "width": 480,
+        "width": 640,
         "height": 640
       }
     },
@@ -399,14 +399,14 @@
           "format": "jpg",
           "output": "media/djs/imanol/imanol_cover.jpg",
           "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/imanol/imanol_cover.jpg",
-          "outputSizeBytes": 63174,
+          "outputSizeBytes": 117186,
           "quality": 86
         },
         {
           "format": "webp",
           "output": "media/djs/imanol/imanol_cover.webp",
           "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/imanol/imanol_cover.webp",
-          "outputSizeBytes": 32128,
+          "outputSizeBytes": 40946,
           "quality": 78
         }
       ],
@@ -416,8 +416,8 @@
         "height": 960
       },
       "outputDimensions": {
-        "width": 720,
-        "height": 960
+        "width": 1600,
+        "height": 900
       }
     },
     {
