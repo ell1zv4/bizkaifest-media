@@ -1,7 +1,7 @@
 {
   "generated": [
     {
-      "source": "assets/images/djs/ales_g/dj-ales-g-fondo.jpeg",
+      "source": "assets/images/djs/ales_g/ales_g_avatar_real.jpg",
       "preferredOutput": "media/djs/ales_g/ales_g_avatar.jpg",
       "preferredPublicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/ales_g/ales_g_avatar.jpg",
       "variants": [
@@ -9,25 +9,25 @@
           "format": "jpg",
           "output": "media/djs/ales_g/ales_g_avatar.jpg",
           "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/ales_g/ales_g_avatar.jpg",
-          "outputSizeBytes": 48367,
+          "outputSizeBytes": 3261,
           "quality": 88
         },
         {
           "format": "webp",
           "output": "media/djs/ales_g/ales_g_avatar.webp",
           "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/ales_g/ales_g_avatar.webp",
-          "outputSizeBytes": 20828,
+          "outputSizeBytes": 1940,
           "quality": 80
         }
       ],
-      "sourceSizeBytes": 38330,
+      "sourceSizeBytes": 2974,
       "sourceDimensions": {
-        "width": 1080,
-        "height": 720
+        "width": 100,
+        "height": 100
       },
       "outputDimensions": {
-        "width": 640,
-        "height": 640
+        "width": 100,
+        "height": 100
       }
     },
     {
@@ -121,6 +121,36 @@
       }
     },
     {
+      "source": "assets/images/djs/gomi/gomi_cover_real.jpg",
+      "preferredOutput": "media/djs/gomi/gomi_cover.jpg",
+      "preferredPublicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/gomi/gomi_cover.jpg",
+      "variants": [
+        {
+          "format": "jpg",
+          "output": "media/djs/gomi/gomi_cover.jpg",
+          "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/gomi/gomi_cover.jpg",
+          "outputSizeBytes": 188482,
+          "quality": 86
+        },
+        {
+          "format": "webp",
+          "output": "media/djs/gomi/gomi_cover.webp",
+          "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/gomi/gomi_cover.webp",
+          "outputSizeBytes": 123520,
+          "quality": 78
+        }
+      ],
+      "sourceSizeBytes": 178522,
+      "sourceDimensions": {
+        "width": 1080,
+        "height": 1080
+      },
+      "outputDimensions": {
+        "width": 1080,
+        "height": 1080
+      }
+    },
+    {
       "source": "assets/images/djs/gomi/gomi_fondo.jpg",
       "preferredOutput": "media/djs/gomi/gomi_avatar.jpg",
       "preferredPublicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/gomi/gomi_avatar.jpg",
@@ -151,37 +181,7 @@
       }
     },
     {
-      "source": "assets/images/djs/gomi/gomi_fondo.jpg",
-      "preferredOutput": "media/djs/gomi/gomi_cover.jpg",
-      "preferredPublicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/gomi/gomi_cover.jpg",
-      "variants": [
-        {
-          "format": "jpg",
-          "output": "media/djs/gomi/gomi_cover.jpg",
-          "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/gomi/gomi_cover.jpg",
-          "outputSizeBytes": 148454,
-          "quality": 86
-        },
-        {
-          "format": "webp",
-          "output": "media/djs/gomi/gomi_cover.webp",
-          "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/gomi/gomi_cover.webp",
-          "outputSizeBytes": 59710,
-          "quality": 78
-        }
-      ],
-      "sourceSizeBytes": 143954,
-      "sourceDimensions": {
-        "width": 1024,
-        "height": 1365
-      },
-      "outputDimensions": {
-        "width": 1024,
-        "height": 1365
-      }
-    },
-    {
-      "source": "assets/images/djs/mari_barrocal/mari_barrocal_fondo.jpg",
+      "source": "assets/images/djs/mari_barrocal/mari_barrocal_avatar_real.jpg",
       "preferredOutput": "media/djs/mari_barrocal/mari_barrocal_avatar.jpg",
       "preferredPublicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/mari_barrocal/mari_barrocal_avatar.jpg",
       "variants": [
@@ -189,25 +189,25 @@
           "format": "jpg",
           "output": "media/djs/mari_barrocal/mari_barrocal_avatar.jpg",
           "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/mari_barrocal/mari_barrocal_avatar.jpg",
-          "outputSizeBytes": 43242,
+          "outputSizeBytes": 3813,
           "quality": 88
         },
         {
           "format": "webp",
           "output": "media/djs/mari_barrocal/mari_barrocal_avatar.webp",
           "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/mari_barrocal/mari_barrocal_avatar.webp",
-          "outputSizeBytes": 13976,
+          "outputSizeBytes": 2348,
           "quality": 80
         }
       ],
-      "sourceSizeBytes": 34640,
+      "sourceSizeBytes": 3434,
       "sourceDimensions": {
-        "width": 672,
-        "height": 960
+        "width": 100,
+        "height": 100
       },
       "outputDimensions": {
-        "width": 640,
-        "height": 640
+        "width": 100,
+        "height": 100
       }
     },
     {
@@ -391,7 +391,7 @@
       }
     },
     {
-      "source": "assets/images/djs/imanol/imanol_avatar.jpg",
+      "source": "assets/images/djs/imanol/imanol_cover_real.jpg",
       "preferredOutput": "media/djs/imanol/imanol_cover.jpg",
       "preferredPublicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/imanol/imanol_cover.jpg",
       "variants": [
@@ -399,25 +399,25 @@
           "format": "jpg",
           "output": "media/djs/imanol/imanol_cover.jpg",
           "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/imanol/imanol_cover.jpg",
-          "outputSizeBytes": 63174,
+          "outputSizeBytes": 151495,
           "quality": 86
         },
         {
           "format": "webp",
           "output": "media/djs/imanol/imanol_cover.webp",
           "publicUrl": "https://ell1zv4.github.io/bizkaifest-media/media/djs/imanol/imanol_cover.webp",
-          "outputSizeBytes": 32128,
+          "outputSizeBytes": 55466,
           "quality": 78
         }
       ],
-      "sourceSizeBytes": 56851,
+      "sourceSizeBytes": 178839,
       "sourceDimensions": {
-        "width": 720,
-        "height": 960
+        "width": 1080,
+        "height": 1080
       },
       "outputDimensions": {
-        "width": 720,
-        "height": 960
+        "width": 1080,
+        "height": 1080
       }
     },
     {
